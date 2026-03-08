@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=osi-102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🌐 **Portfolio**: [https://mayank-smoky.vercel.app/](https://mayank-smoky.vercel.app/)
-- 📝 **Articles**: I sometime write on [Medium](https://medium.com/@2003mayankchauhan.b)
+- 🌐 **Portfolio**:
+- 📝 **Articles**:
 - 📞 **Contact**: 9690570787
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1iBuzbfSpopxUDe5Nk6E7FG3PafLZdQPF/view?usp=drive_link)
+- 📄 **Resume**:
 
 ### 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
